@@ -14,3 +14,6 @@
 - Speech Generation and Conversion
 - Speech Enhancement, Source Separation
 - Singing Voice Generation
+
+#### Now on
+- Studying graphic and music area for making application alone.
