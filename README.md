@@ -6,14 +6,17 @@
 
 </div>
 
-#### Leader of New Company [My Blue Corp.](http://www.myblue.kr/)
+#### [My Blue Corp.](http://www.myblue.kr/)
 
 #### AI Research Engineer in Speech Area
 
 #### Interest
-- Speech Generation and Conversion
-- Speech Enhancement, Source Separation
-- Singing Voice Generation
+- *Research Area*
+  - Speech Generation and Conversion
+  - Speech Enhancement, Source Separation
+  - Singing Voice Generation
+- *Making applications* using above experimental results.
 
 #### Now on
+- Making speech AI modules of an application.
 - Studying graphic and music area for making application alone.
