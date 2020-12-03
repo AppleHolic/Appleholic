@@ -19,4 +19,4 @@
 
 #### Now on
 - Making speech AI modules of an application.
-- Studying graphic and music area for making application alone.
+  - Will be updated soon ...
