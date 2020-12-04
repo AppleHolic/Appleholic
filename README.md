@@ -6,9 +6,9 @@
 
 </div>
 
-#### [My Blue Corp.](http://www.myblue.kr/)
+#### [My Blue Corp.](http://www.myblue.kr/) 
 
-#### AI Research Engineer in Speech Area
+#### AI Research Engineer in Speech Area, Self-employed
 
 #### Recent Research Demo
 - [\[Youtube link\]: Voice Conversion - Self-introduce with 100 voices](https://www.youtube.com/watch?v=75mbRMB3-lE)
