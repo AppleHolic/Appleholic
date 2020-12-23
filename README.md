@@ -21,5 +21,6 @@
 - *Making applications* using above experimental results.
 
 #### Now on
+- Writing a paper in speech area..
 - Making speech AI modules of an application.
   - Will be updated soon ...
