@@ -6,7 +6,9 @@
 
 </div>
 
-#### Co-founder and AI Developer at TUNiB
+### Co-founder and AI Developer at TUNiB
+
+---
 
 #### Research Demos at My Blue Corp.
 - Voice Conversion
@@ -17,6 +19,8 @@
     - [\[Youtube link 2\]: Facerig and Voice Conversion Demo](https://youtu.be/pd4ehN7lM2k) (AR and Voice Conversion)
 
 #### Checkout later experiences on linkedin
+
+---
 
 #### Working on
 - Join and build new startup company
