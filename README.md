@@ -6,8 +6,6 @@
 
 </div>
 
-### Co-founder and AI Developer at TUNiB
-
 ---
 
 #### Research Demos at My Blue Corp.
@@ -23,5 +21,4 @@
 ---
 
 #### Working on
-- Join and build new startup company
 - Write a paper in speech area
