@@ -6,7 +6,6 @@
 
 </div>
 
----
 
 #### Research Demos at My Blue Corp.
 - Voice Conversion
