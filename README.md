@@ -1,12 +1,24 @@
-<div align=center>
+# Hi there! 👋
 
+## About Me
+**MLOps Engineer at Supertone Inc.**
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAppleholic%2FAppleholic)](https://hits.seeyoufarm.com) [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/appleholic/my-stack)
+Focused on MLOps automation and infrastructure solutions for scalable ML systems.
 
+## Current Tech Stack
+**Cloud & Infrastructure:** AWS, GCP, Kubernetes, Terraform, Pulumi  
+**ML Operations:** Kubeflow, Triton Inference Server, Torchserve  
+**Monitoring & CI/CD:** Grafana, Datadog, GitHub Actions, ArgoCD  
+**Programming:** Python, Java, Kotlin, JavaScript, Go, C/C++
 
-</div>
+## Experience Highlights
+- **Supertone Inc.** - MLOps Engineer (Current)
+- **Kakao Brain** - Research Engineer
+- **Vuno** - Software Engineer
 
-Research Engineer at [Supertone Inc.](https://supertone.ai/main/)
+---
+*Building scalable ML infrastructure for next-generation audio AI*
 
-I like beautiful voices and music!
-
+## Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/choiilji/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:choiilji@gmail.com)
