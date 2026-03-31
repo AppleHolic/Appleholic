@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 ## About Me
-**MLOps Engineer at Supertone Inc.**
+**MLOps Engineer @ Kakaopay**
 
 Focused on MLOps automation and infrastructure solutions for scalable ML systems.
 
@@ -12,12 +12,12 @@ Focused on MLOps automation and infrastructure solutions for scalable ML systems
 **Programming:** Python, Java, Kotlin, JavaScript, Go, C/C++
 
 ## Experience Highlights
-- **Supertone Inc.** - MLOps Engineer (Current)
+- **Kakaopay** - MLOps Engineer (Current)
+- **Supertone Inc.** - MLOps Engineer 
 - **Kakao Brain** - Research Engineer
 - **Vuno** - Software Engineer
 
 ---
-*Building scalable ML infrastructure for next-generation audio AI*
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/choiilji/)
